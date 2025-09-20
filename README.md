@@ -43,7 +43,7 @@ A collection of Jupyter notebooks designed to help you learn and practice LangGr
 
 4. **Install Dependencies**
    ```bash
-   pip install langgraph
+   pip install 
    ```
 
 ### 🔧 Troubleshooting
